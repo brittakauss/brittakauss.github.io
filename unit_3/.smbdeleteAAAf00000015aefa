@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>	
+	<head>
+		<title>Britt Kauss Portfolio</title>
+		<link rel="stylesheet" type="text/css" href="css/style.css">
+	</head>
+	<body>
+		<h1>Britt Kauss: User Experience Designer</h1>
+		<p id="slogan">Radical, user-centered, product design.</p>
+		<img src="images/11403016_873376285300_7004869187388269561_n.jpg">
+		<p>a few things about my work</p>
+		<ul>
+			<li>interaction design</li>
+			<li>information architecture</li>
+			<li>user research</li>
+			<li>visual design</li>
+
+	</body>
+</html>
