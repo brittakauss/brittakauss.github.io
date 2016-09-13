@@ -1,0 +1,87 @@
+* {
+	padding: 0;
+	margin: 0;
+}
+
+header {
+	background-color: #FFFFFF; 
+	padding: 20px;
+}
+
+body {
+    background-color: #FFFFFF;
+    font-family: 'Lato', sans-serif;
+    color: #222222;
+}
+
+
+nav a {
+	font-family: 'Lato', sans-serif;
+	color: #9B5383;
+	margin-right: 10px;
+	font-size: 14px;
+	font-style: bold;
+}
+
+h1 {
+	font-size: 30px;
+	color: #353054;
+	font-style: bold;
+	margin-bottom: 20px;
+}
+
+h2 {
+	font-size: 24px;
+	color: #353054;
+	margin-bottom: 20px;
+}
+
+h3 {
+	font-size: 18px;
+	color: #353054;
+	margin-bottom: 10px;
+	margin-top: 20px;
+}
+
+p, ul {
+	font-family: 'Crimson Text', serif;
+	font-size: 16px;
+}
+
+
+ul, ol {
+	padding-left: 20px;
+}
+
+
+
+img {
+	max-width: 100%;
+}
+
+main {
+	padding: 20px;
+}
+
+footer p{
+	background-color: #cccccc;
+	padding: 20px;
+	text-align: center;
+	font-size: 10px;
+	color: #222222;
+}
+
+#splash {
+	background: url(../images/brittonthebeach2.jpg);
+	/* background-color:aquamarine; */
+	height:85vh;
+	padding: 5em;
+}
+
+
+
+#slogan{
+	 font-style: italic;
+}
+
+

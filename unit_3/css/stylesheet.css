@@ -1,3 +1,11 @@
+<style>
+@import 'https://fonts.googleapis.com/css?family=Merriweather';
+</style>
+
+<style>
+@import 'https://fonts.googleapis.com/css?family=Lato';
+</style>
+
 * {
 	padding: 0;
 	margin: 0;
@@ -32,26 +40,30 @@ a {
 nav a {
 	color: #9B5383;
 	margin-right: 10px;
+	font-family: 'Lato', sans-serif;
 	font-size: 14px;
-	;
 }
 
 h1, h2, h3 {
+	font-family: 'Lato', sans-serif;
 	font-size: 24px;
 	color: #353054;
 	margin-bottom: 20px;
 }
 
 p{
+	font-family: 'Merriweather', serif;
 	font-size: 14px;
 }
 
 ul, ol {
 	padding-left: 20px;
+	font-family: 'Merriweather', serif;
 	font-size: 14px; 
 }
 
 li{
+	font-family: 'Merriweather', serif;
 	font-size: 14px;
 }
 
@@ -62,6 +74,7 @@ img{
 main {
 	padding: 20px;
 }
+
 #splash {
 	background: url(../images/brittonthebeach2.jpg);
 	/* background-color:aquamarine; */
